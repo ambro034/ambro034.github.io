@@ -6,43 +6,46 @@
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/courses/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/dmp-model/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/job-rationing/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/labor-market-tightness/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/matching-function/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/matching-model/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/public-employment/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/shimer-puzzle/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/c1/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/unemployment-fluctuations/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/unemployment-gap/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/unemployment-insurance/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/wage-rigidity/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/officehours/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
@@ -71,6 +74,9 @@
     <loc>https://pascalmichaillat.org/tags/state-dependence/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/15/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -93,9 +99,6 @@
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/tightness-gap/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment-gap/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/wealth-in-the-utility/</loc>
@@ -207,6 +210,9 @@
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/fiscal-policy/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/frictional-unemployment/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/inequality/</loc>
@@ -356,6 +362,12 @@
     <loc>https://pascalmichaillat.org/tags/baily-chetty-formula/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/macro-elasticity-of-unemployment/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/micro-elasticity-of-unemployment/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/tags/unemployment-benefits/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -423,9 +435,6 @@
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/1/</loc>
-    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/frictional-unemployment/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/rationing-unemployment/</loc>

@@ -238,13 +238,6 @@
       <description></description>
     </item>
     <item>
-      <title>false positives</title>
-      <link>https://pascalmichaillat.org/tags/false-positives/</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/false-positives/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Michez rule</title>
       <link>https://pascalmichaillat.org/tags/michez-rule/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
@@ -256,6 +249,13 @@
       <link>https://pascalmichaillat.org/tags/nowcasting/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/nowcasting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recession classifier</title>
+      <link>https://pascalmichaillat.org/tags/recession-classifier/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/recession-classifier/</guid>
       <description></description>
     </item>
     <item>

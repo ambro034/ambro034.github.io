@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-date: 2024-12-13
+date: 2025-03-14
 url: /officehours/
 aliases:
     - /oh.html
@@ -12,11 +12,12 @@ hidemeta: true
 
 ---
 
-#### Schedule for Winter 2025 (starting 1/8/2025)
+#### Schedule for Spring 2025
 
-+ Day: Wednesday
+<!-- + Day: Wednesday
 + Time for ECON 182 students: 4:00pm–5:00pm
-+ Time for other UCSC students: 3:00pm–4:00pm
++ Time for other UCSC students: 3:00pm–4:00pm -->
++ Office hours are by appointment. Please [email me](mailto:pamichai@ucsc.edu) to set up a meeting.
 
 ---
 

@@ -23,7 +23,8 @@ hidemeta: true
 
 #### Location
 
-By default office hours take place [in my office](/location/). I am also available for virtual meetings upon request. Those take place [in my Zoom room](https://ucsc.zoom.us/my/pmichaillat).
++ By default office hours take place [in my office](/location/). 
++ I am also available for [Zoom meetings](https://ucsc.zoom.us/my/pmichaillat) upon request.
 
 ---
 

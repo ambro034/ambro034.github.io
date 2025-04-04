@@ -31,4 +31,4 @@ Santa Cruz, CA 95064
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203668.66166295038!2d-122.06180807362631!3d37.09743194165668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e5b57475%3A0x97880f47ac591627!2sDepartment%20of%20Economics!5e0!3m2!1sen!2sus!4v1686026390720!5m2!1sen!2sus" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3186.3696636040813!2d-122.06581738842497!3d37.000976556239884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e51cfedb%3A0x5ec352acda2725ee!2sEngineering%202%2C%201156%20High%20St%2C%20Santa%20Cruz%2C%20CA%2095064%2C%20USA!5e0!3m2!1sen!2sin!4v1743742443327!5m2!1sen!2sin" width="700" height="550" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
